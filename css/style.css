@@ -1,0 +1,66 @@
+.myrows{
+    border: 3px solid green
+}
+.mycols{
+    border: 3px solid red
+}
+.mycontainer{
+    background-color : aqua;
+    /* border: 3px solid red */
+}
+#topHeader{
+    background-color:rgb(226, 248, 248);
+    border-bottom: 1px silver;
+     
+}
+#topHeader a{
+    color: #043242;
+    font-weight: 500;
+    font-size: 1rem;
+}
+.container-fluid{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+nav ul li a {
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+/* Strat Footer */
+.full-footer{
+    background-color: #30336b;
+    
+}
+
+.top-footer p{
+
+    color: white;
+
+}
+.top-footer a{
+
+    color: white;
+    font-weight: 300;
+
+}
+.top-footer h3{
+
+    color: white;
+    font-weight: 700;
+
+}
+.top-footer h2{
+    color: white;
+    font-weight: 800;
+}
+
+.botton-footer{
+    background-color: #130f40;
+    
+}
+.botton-footer p{
+    color: white;
+}
+/* End Footer */
