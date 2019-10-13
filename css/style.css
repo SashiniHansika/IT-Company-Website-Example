@@ -55,7 +55,6 @@ nav ul li a {
     color: white;
     font-weight: 800;
 }
-
 .botton-footer{
     background-color: #130f40;
     
@@ -64,3 +63,37 @@ nav ul li a {
     color: white;
 }
 /* End Footer */
+
+/* Satrt: Home page */
+
+.top-hero-section{
+    background-color: #0984e3;
+    color: white;
+}
+.top-hero-section a{
+    color: white;
+}
+.requirements{
+    background-color: rgb(2, 2, 44);
+    color: white;
+}
+.news-letter-section{
+    background-color: rgb(2, 2, 44);
+    color: white;
+}
+
+.news-letter-section .form-control{
+    height: 50px;
+    border-color: transparent;
+    border-radius: 20px 0 0 20px;
+}
+.news-letter-section .btn{
+    height: 50px;
+    background: #850554;
+    border-radius: 0 20px 20px 0;
+    color: white;
+}
+.client{
+    background-color: silver;
+}
+/* End :  Home page */
